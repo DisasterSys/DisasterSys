@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DisasterSys
+- 👋 Hi, I’m @DisasterSys, but you can call me Oliver.
 - 👀 I’m interested in coding for games and websites
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me- Death/Aster283 on Discord!
